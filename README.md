@@ -1,0 +1,29 @@
+# ZZSpecialKit_Category
+
+[![CI Status](https://img.shields.io/travis/LeiZong/ZZSpecialKit_Category.svg?style=flat)](https://travis-ci.org/LeiZong/ZZSpecialKit_Category)
+[![Version](https://img.shields.io/cocoapods/v/ZZSpecialKit_Category.svg?style=flat)](https://cocoapods.org/pods/ZZSpecialKit_Category)
+[![License](https://img.shields.io/cocoapods/l/ZZSpecialKit_Category.svg?style=flat)](https://cocoapods.org/pods/ZZSpecialKit_Category)
+[![Platform](https://img.shields.io/cocoapods/p/ZZSpecialKit_Category.svg?style=flat)](https://cocoapods.org/pods/ZZSpecialKit_Category)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+ZZSpecialKit_Category is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'ZZSpecialKit_Category'
+```
+
+## Author
+
+LeiZong, leasingzong@gmail.com
+
+## License
+
+ZZSpecialKit_Category is available under the MIT license. See the LICENSE file for more info.
